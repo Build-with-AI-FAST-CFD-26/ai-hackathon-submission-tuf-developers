@@ -1,4 +1,4 @@
-# [Project Name] - Build with AI Hackathon 2026
+# [Enter Your Project Name] - Build with AI Hackathon 2026
 **Team Name:** [Insert from Registration]
 **Team Members:** [Member 1, Member 2, Member 3]
 
@@ -7,8 +7,8 @@ Provide a 2-3 sentence summary of the problem you are solving and your AI-powere
 
 ## 2. Google AI Tech Stack Implementation
 Explain how your team utilized the following mandatory technologies:
-* **Google AI Studio / Vertex AI:** Which models (like Gemini) did you use, and what was the specific implementation? [1]
-* **Hosting & Backend:** Did you use Google Cloud Run or Firebase Studio for deployment? [1]
+* **Google AI Studio / Vertex AI:** Which models (like Gemini) did you use, and what was the specific implementation?
+* **Hosting & Backend:** Did you use Google Cloud Run or Firebase Studio for deployment?
 * **Integration:** How does your solution connect these Google tools to solve the problem?
 
 ## 3. Innovation & Impact
